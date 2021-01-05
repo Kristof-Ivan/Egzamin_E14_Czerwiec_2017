@@ -54,7 +54,7 @@
         ?>
     </div>
     <div class="stopka">
-        <p>utworzone przez: Krzysztof Iwański</p>
+        <p>utworzone przez: 565656456</p>
         <a href="kwerendy.txt">Pobierz plik z kwerendami</a>
     </div>
 </body>
